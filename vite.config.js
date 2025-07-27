@@ -13,6 +13,6 @@ export default defineConfig({
     assetsDir: 'assets',
     sourcemap: false,
     minify: 'terser',
-    base: "/Sample_Landpage"
+    base: "/Sample_Landpage/"
   }
 })
