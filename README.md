@@ -2,7 +2,7 @@
 
 A fully responsive and cross-platform landing page built with React, Vite, Tailwind CSS, and DaisyUI.
 
-![Landing Page Preview](https://michael-cembrano.github.io/Sample_Landpage/)
+Landing Page Preview
 https://michael-cembrano.github.io/Sample_Landpage/
 
 ## ✨ Features
