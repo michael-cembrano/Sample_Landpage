@@ -25,8 +25,8 @@ A fully responsive and cross-platform landing page built with React, Vite, Tailw
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd modern-landing-page
+   git clone <https://github.com/michael-cembrano/Sample_Landpage>
+   cd sample_landpage
    ```
 
 2. **Install dependencies**
